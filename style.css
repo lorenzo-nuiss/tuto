@@ -3,3 +3,9 @@ body {
   color: red;
   font-weight: bold;
 }
+html,
+body,
+div {
+  padding: 0;
+  margin: 0;
+}
