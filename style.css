@@ -3,3 +3,9 @@ body {
   color: blue;
   font-weight: bold;
 }
+html,
+body,
+div {
+  margin: 0;
+  padding: 0;
+}
